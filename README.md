@@ -3,3 +3,5 @@ Spatial attention allows us to focus on information in a specific location in th
 
 ## Experiment 1
 In this version of the experiment, participants were shown 2 simultaneous set of faces and told to pay attention to one side. The faces ranged in emotion from happy to sad and participants were instructed to report what they believed to be the average of the emotions they were paying attention to. This experiment had three conditions as the unattended faces could on average match, be sadder, or be happier than the attended face.
+
+![Experiment 1 Paradigm](https://user-images.githubusercontent.com/35672096/142701319-f15d3993-68b0-466c-a985-947900b69906.png)
