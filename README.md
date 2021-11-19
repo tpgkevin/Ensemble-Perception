@@ -6,14 +6,15 @@ In this version of the experiment, participants were shown 2 simultaneous set of
 
 ![Experiment 1 Paradigm](https://user-images.githubusercontent.com/35672096/142701514-ee93c827-61a1-4548-a04d-846ce89036e9.png)
 
-Participants performed well overall and there was a stastically significant pattern of bias towards the unattended faces (p=0.014).
+Participants performed well overall and there was a statistically significant pattern of bias towards the unattended faces (p=0.014).
 
 ![Experiment 1 Results](https://user-images.githubusercontent.com/35672096/142703426-89af0489-c23f-4c8d-841f-58f307c7fac8.png)
 
 
 ## Experiment 2
-The second version of the experiment is very similar to the first except that a different dataset of faces was used which ranges from happy to angry to sad. This experiment was run to ensure the results are reprodicible and not specific to the previous dataset.
+The second version of the experiment is very similar to the first except that a different dataset of faces was used which ranges from happy to angry to sad. This experiment was run to ensure the results are reproducible and not specific to the previous dataset.
 
 
 ![Experiment 2 paradigm ](https://user-images.githubusercontent.com/35672096/142704042-f7e15a3f-07c2-483e-a92a-b11543c15b31.png)
+
 
