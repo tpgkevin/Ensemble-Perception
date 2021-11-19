@@ -14,7 +14,8 @@ Participants performed well overall and there was a statistically significant pa
 ## Experiment 2
 The second version of the experiment is very similar to the first except that a different dataset of faces was used which ranges from happy to angry to sad. This experiment was run to ensure the results are reproducible and not specific to the previous dataset.
 
-
 ![Experiment 2 paradigm ](https://user-images.githubusercontent.com/35672096/142704042-f7e15a3f-07c2-483e-a92a-b11543c15b31.png)
 
+We saw similar results in this experiment as well. There was again a bias to the unattended faces as confirmed by a within-subject ANOVA (p=0.002).
 
+![Experiment 2 Results ](https://user-images.githubusercontent.com/35672096/142704635-26b9ed8f-a10e-4a6a-8c0f-a3cbeb5f1621.png)
