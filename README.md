@@ -19,3 +19,5 @@ The second version of the experiment is very similar to the first except that a 
 We saw similar results in this experiment as well. There was again a bias to the unattended faces as confirmed by a within-subject ANOVA (p=0.002).
 
 ![Experiment 2 Results ](https://user-images.githubusercontent.com/35672096/142704635-26b9ed8f-a10e-4a6a-8c0f-a3cbeb5f1621.png)
+
+## Experiment 3
