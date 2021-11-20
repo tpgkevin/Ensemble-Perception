@@ -21,3 +21,6 @@ We saw similar results in this experiment as well. There was again a bias to the
 ![Experiment 2 Results ](https://user-images.githubusercontent.com/35672096/142704635-26b9ed8f-a10e-4a6a-8c0f-a3cbeb5f1621.png)
 
 ## Experiment 3
+The third experiment was mostly identical to the previous one with a few extra conditions. We wanted to make sure that the effect we were finding was not due to a similarity effect and that the results would presist across faces with significantlly varying emotions. This experiment once again replicated the previous results across all conditions.
+
+![Experiment 3](https://user-images.githubusercontent.com/35672096/142705642-f8fb0741-a9a0-4e06-ba63-a10dccff68be.png)
